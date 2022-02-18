@@ -1913,10 +1913,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@biconomy/hyphen@^0.0.19":
-  version "0.0.19"
-  resolved "https://registry.yarnpkg.com/@biconomy/hyphen/-/hyphen-0.0.19.tgz#cf24814aadc3c31a508f6f354ccb094e0e9195ec"
-  integrity sha512-nihPT45NE8v1RvSq67e0fii/FGDbBc0SiZsgH81j2W+Pun9UmKk07FVdoTHvpsRFt9DJx1BiR8kqYbmA1sDBFQ==
+"@biconomy/hyphen@^0.0.20":
+  version "0.0.20"
+  resolved "https://registry.yarnpkg.com/@biconomy/hyphen/-/hyphen-0.0.20.tgz#b856a25a9d812add14cf81a3e4f212fa120d1820"
+  integrity sha512-WFsP52sOzyX6MtlZf8aIk9pfiZWcfhrHvRF92ye2bTPHCZ+NqpCxNmqfXWm89aun5ZQc6ea2UfZDJ/Q4WFlU0A==
   dependencies:
     "@biconomy/mexa" "^2.0.24"
     ethers "^5.0.24"
@@ -3052,10 +3052,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.31.tgz#72286bd33d137aa0d152d47ec7c1762563d34055"
   integrity sha512-vFHy/ezP5qI0rFgJ7aQnjDXwAMrG0KqqIH7tQG5PPv3BWBayOPIQNBjVc/P6hhdZfMx51REc6tfDNXHUio893g==
 
-"@types/node@^12.0.0":
-  version "12.20.37"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.20.37.tgz#abb38afa9d6e8a2f627a8cb52290b3c80fbe61ed"
-  integrity sha512-i1KGxqcvJaLQali+WuypQnXwcplhtNtjs66eNsZpp2P2FL/trJJxx/VWsM0YCL2iMoIJrbXje48lvIQAQ4p2ZA==
+"@types/node@^17.0.18":
+  version "17.0.18"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.18.tgz#3b4fed5cfb58010e3a2be4b6e74615e4847f1074"
+  integrity sha512-eKj4f/BsN/qcculZiRSujogjvp5O/k4lOW5m35NopjZM/QwLOR075a8pJW5hD+Rtdm2DaCVPENS6KtSQnUD6BA==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
